@@ -1,4 +1,32 @@
-### ¡Hola! Mi nombre es Rodrigo Georgetti
+### ¡Hola! Mi nombre es Rodrigo Georgetti.
+
+¿Quien soy?
+
+Soy desarrollador Fullstack, con orientacion al back-end 🔌 y conociminetos de modelado de negocio para el desarrollo de aplicaciones 🖥️. 
+
+¿Que hago actualmente?
+
+Estoy aprendiendo nuevas tecnologias para incorporar a mi stack 🔄, como Typescrpt y mongoDB.
+
+¿Cual es mi meta actual?
+
+Afianzar los conociminetos aprendiedos recientemente en el bootcamp soyhenry e involucrarme en nuevos proyectos de desarrollo 💻.
+
+¿Tecnologias que manejo?
+
+* Javacript
+* React
+* Redux
+* NodeJS
+* Express
+* PostgreSQL
+* Sequelize
+
+¡Para contactarme!
+e-mail: rodrigogeorgetti.cba@gmail.com
+linkedin: https://www.linkedin.com/in/rodrigo-georgetti-1a4172b9
+
+
 
 <!--
 **rodrigo-georgetti/rodrigo-georgetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
