@@ -23,7 +23,9 @@ Afianzar los conociminetos aprendiedos recientemente en el bootcamp soyhenry e i
 * Sequelize
 
 ¡Para contactarme!
+
 e-mail: rodrigogeorgetti.cba@gmail.com
+
 linkedin: https://www.linkedin.com/in/rodrigo-georgetti-1a4172b9
 
 
