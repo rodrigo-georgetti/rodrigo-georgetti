@@ -6,7 +6,7 @@ Soy desarrollador Fullstack, con orientacion al back-end 🔌 y conociminetos de
 
 ¿Que hago actualmente?
 
-Estoy aprendiendo nuevas tecnologias para incorporar a mi stack 🔄, como Typescrpt y mongoDB.
+Estoy aprendiendo nuevas tecnologias para incorporar a mi stack 🔄, NextJS.
 
 ¿Cual es mi meta actual?
 
@@ -14,7 +14,8 @@ Afianzar los conociminetos aprendiedos recientemente en el bootcamp soyhenry e i
 
 ¿Tecnologias que manejo?
 
-* Javacript
+* Javascript
+* Typescript
 * React
 * Redux
 * NodeJS
